@@ -15,7 +15,7 @@ export default function Page() {
       </h2>
       <p className=mb-4">
         {`Verizon, Accenture, AP Stamp`}
-    </p>
+      </p>
     </section>
   )
 }
