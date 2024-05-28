@@ -11,9 +11,17 @@ export default function Page() {
         With a strong foundation in programming and problem-solving, I thrive on tackling complex challenges and turning innovative ideas into reality.`}
       </p>
       <hr className="my-6 border-neutral-100 dark:border-neutral-800" />
-      <h2 className="font-medium text-xl mb-1 tracking-tighter">Vercel</h2>
+      <h2 className="font-medium text-xl mb-1 tracking-tighter">Verizon</h2>
       <p className="text-neutral-600 dark:text-neutral-400 text-sm">
-        VP of Product
+        Software Engineer Intern
+      </p>
+      <h2 className="font-medium text-xl mb-1 tracking-tighter">Accenture</h2>
+      <p className="text-neutral-600 dark:text-neutral-400 text-sm">
+          Data Analyst Intern
+      </p>
+      <h2 className="font-medium text-xl mb-1 tracking-tighter">AP Stamp</h2>
+      <p className="text-neutral-600 dark:text-neutral-400 text-sm">
+        Data Engineering Intern
       </p>
     </section>
   )
