@@ -13,7 +13,7 @@ export default function Page() {
       <h2 className="mb-8 text-2xl font-semibold tracking-tighter">
       Experience
       </h2>
-      <p className=mb-4">
+      <p className="mb-4">
         {`Verizon, Accenture, AP Stamp`}
       </p>
     </section>
