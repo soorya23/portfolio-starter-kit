@@ -14,7 +14,7 @@ export default function Page() {
       Experience
       </h2>
       <p className=mb-4">
-        {Verizon, Accenture, AP Stamp}
+        {`Verizon, Accenture, AP Stamp`}
     </p>
     </section>
   )
